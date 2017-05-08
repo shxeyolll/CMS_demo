@@ -1,4 +1,4 @@
-# Markdown相关问题管理  
+# Markdown相关问题整理  
 5/8/2017 8:30:16 AM 
 1. Markdown是什么？  
 Markdown 是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 github、Stackoverflow 等网站均支持这种格式。  
